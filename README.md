@@ -1,0 +1,1 @@
+# SecOps-Architect-Exam-Guide-Palo-Alto-Networks-Security-Operations-Architect
